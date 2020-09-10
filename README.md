@@ -12,6 +12,8 @@ pip install directory-tree-generator
 ```
 
 ## Usage
+Pass the directory path to the generate method
+
 ```python
 from DirectoryTree import TreeGenerator
 Tree = TreeGenerator()
