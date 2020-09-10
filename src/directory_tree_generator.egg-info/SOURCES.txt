@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/DirectoryTree.py
+src/directory_tree_generator.egg-info/PKG-INFO
+src/directory_tree_generator.egg-info/SOURCES.txt
+src/directory_tree_generator.egg-info/dependency_links.txt
+src/directory_tree_generator.egg-info/requires.txt
+src/directory_tree_generator.egg-info/top_level.txt

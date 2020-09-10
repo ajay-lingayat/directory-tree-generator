@@ -12,7 +12,7 @@ setup(
     url="https://github.com/Ajay2810-hub/directory-tree-generator",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    py_modules = ['DirectoryTree.py'],
+    py_modules = ['DirectoryTree'],
     package_dir = {'': 'src'},
     install_requires=[], 
     extras_require = {
