@@ -1,6 +1,6 @@
 import os
 
-class Tree:
+class TreeGenerator:
    def __init__( self ):
        pass
        
