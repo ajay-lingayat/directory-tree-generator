@@ -19,3 +19,4 @@ from DirectoryTree import TreeGenerator
 Tree = TreeGenerator()
 Tree.generate('C:/users/Ajay/Desktop/Junk')
 ```
+### Output
