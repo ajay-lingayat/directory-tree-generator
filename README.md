@@ -1,5 +1,9 @@
 # directory-tree-generator
 
+[![Downloads](https://pepy.tech/badge/directory-tree-generator/week)](https://pepy.tech/project/directory-tree-generator/week)
+[![Downloads](https://pepy.tech/badge/directory-tree-generator/month)](https://pepy.tech/project/directory-tree-generator/month)
+[![Downloads](https://pepy.tech/badge/directory-tree-generator)](https://pepy.tech/project/directory-tree-generator)
+
 ## Requirements
 
 ```
